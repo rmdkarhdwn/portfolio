@@ -5,9 +5,7 @@
         <nav>
             <a href="#">GitHub.</a>
             <a href="#">LinkedIn.</a>
-            <a href="#">Tistory Blog.</a>
             <a href="#">Velog.</a>
-            <a href="#">YouTube.</a>
         </nav>
         <div class="contact">
             <p>Oneriever@email.com</p>

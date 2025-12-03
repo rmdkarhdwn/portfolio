@@ -43,7 +43,12 @@ body {
     color: #ffd700;
 }
 
+/* 연락처 스타일 */
 .contact {
     font-size: 14px;
     color: #999;
+}
+
+.main-content {
+    flex: 1;
 }
